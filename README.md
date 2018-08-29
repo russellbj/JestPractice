@@ -1,5 +1,5 @@
 # JestPractice
-Practice writing aynchronous scrips and Jest unit tests.
+Practice writing aynchronous scripts and Jest unit tests.
 
 To run tests:
 - Clone repo
